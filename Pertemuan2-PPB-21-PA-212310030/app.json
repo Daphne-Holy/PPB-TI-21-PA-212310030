@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Pertemuan2-PPB-21-PA-212310030",
+    "slug": "Pertemuan2-PPB-21-PA-212310030",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
